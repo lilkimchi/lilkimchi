@@ -1,5 +1,7 @@
 ### Hi, I'm Kim! 👋
 
+I'm a data analyst with a focus on marketing and digital analytics.
+
 <!--
 **lilkimchi/lilkimchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
